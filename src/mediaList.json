@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "src": "/media/photo1.jpg",
+    "type": "image",
+    "name": "photo1.jpg"
+  },
+  {
+    "id": 2,
+    "src": "/media/photo2.jpg",
+    "type": "image",
+    "name": "photo2.jpg"
+  },
+  {
+    "id": 3,
+    "src": "/media/photo3.jpg",
+    "type": "image",
+    "name": "photo3.jpg"
+  },
+  {
+    "id": 4,
+    "src": "/media/photo4.jpg",
+    "type": "image",
+    "name": "photo4.jpg"
+  },
+  {
+    "id": 5,
+    "src": "/media/photo5.jpg",
+    "type": "image",
+    "name": "photo5.jpg"
+  }
+]
